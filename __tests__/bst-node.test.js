@@ -1,4 +1,4 @@
-import BSTNode from '../src/bst-node.js';
+import BSTNode from '../src2/bst-node.js';
 
 describe('bstNode', () => {
 
